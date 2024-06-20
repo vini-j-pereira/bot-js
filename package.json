@@ -1,0 +1,14 @@
+{
+  "name": "curso-de-bot-com-js",
+  "version": "1.0.0",
+  "description": "Bot dev com Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.11.2"
+  }
+}
